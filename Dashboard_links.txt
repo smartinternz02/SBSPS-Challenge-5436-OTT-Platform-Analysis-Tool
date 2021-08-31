@@ -1,0 +1,6 @@
+IBM Cognos Analytics Dashboard links:
+
+
+https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard_tabbed_2&action=view&mode=dashboard&subView=model0000017b845d2df8_00000001
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fdashboard%2Fdashboard_tabbed&action=view&mode=dashboard&subView=model0000017b8405ca33_00000000
